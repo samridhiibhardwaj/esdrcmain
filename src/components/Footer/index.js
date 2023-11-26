@@ -40,7 +40,7 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/" onClick={toggleHome}>
-              Embedded System Design And Robotics Club
+              ESDRC
             </SocialLogo>
 
             <WebsiteRights>

@@ -55,7 +55,7 @@ export const homeObjThree = {
     "'For the things we learn, we learn by doing them.' - ESDRC Club, Amity School of Engineering and Technology",
   buttonLabel: "Start Now",
   imgStart: false,
-  img: require("../../images/all.svg"),
+  img: require("../../images/atsapp-image-2023-11-27-at-02-32-58.svg"),
   alt: "Paper",
   dark: false,
   primary: false,
